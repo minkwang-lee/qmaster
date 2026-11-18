@@ -1,5 +1,10 @@
 # 🥚 품질 마스터 (Quality Master)
 
+### 🏆 [해커톤 출품작 소개 페이지](https://minkwang-lee.github.io/qmaster/hackathon.html)
+
+휴대폰에서 링크를 직접 눌러 읽고 게임을 실행할 수 있습니다. QR 스캔은 필요하지 않습니다.
+
+
 **50초 결함 검출 아케이드 게임** · 모바일/PC 지원 · 설치 불필요
 
 ### 🎮 [바로 플레이하기](https://minkwang-lee.github.io/qmaster/)
